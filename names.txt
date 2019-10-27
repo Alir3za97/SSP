@@ -1,6 +1,8 @@
 Mouse HitPredict PPI
 Mouse Reactome Signaling
 Mouse KEGG Signaling
+Mouse STRING PPI
+Human STRING PPI
 Human HitPredict PPI
 Human PathLinker Signaling
 Human HIPPIE PPI
