@@ -1,10 +1,3 @@
-Mouse HitPredict PPI
-Mouse Reactome Signaling
-Mouse KEGG Signaling
-Mouse STRING PPI
-Human STRING PPI
-Human HitPredict PPI
-Human PathLinker Signaling
-Human HIPPIE PPI
-Human Reactome Signaling
-Human KEGG Signaling
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a0069a415ce622c7677f49537d20003a12becf105feabc150269325ddf4981b
+size 212
