@@ -1,2 +1,13 @@
 Human-PPI-STRING-Inverted.txt filter=lfs diff=lfs merge=lfs -text
 Human-PPI-STRING.txt filter=lfs diff=lfs merge=lfs -text
+Human-Signaling-KEGG-Inverted.txt filter=lfs diff=lfs merge=lfs -text
+Human-Signaling-PathLinker.txt filter=lfs diff=lfs merge=lfs -text
+Human-Signaling-Reactome-Inverted.txt filter=lfs diff=lfs merge=lfs -text
+Human-Signaling-Reactome.txt filter=lfs diff=lfs merge=lfs -text
+Human-Signaling-PathLinker-Inverted.txt filter=lfs diff=lfs merge=lfs -text
+Human-Annotations.txt filter=lfs diff=lfs merge=lfs -text
+Human-PPI-HIPPIE-Inverted.txt filter=lfs diff=lfs merge=lfs -text
+Human-PPI-HIPPIE.txt filter=lfs diff=lfs merge=lfs -text
+Human-PPI-HitPredict-Inverted.txt filter=lfs diff=lfs merge=lfs -text
+Human-PPI-HitPredict.txt filter=lfs diff=lfs merge=lfs -text
+Human-Signaling-KEGG.txt filter=lfs diff=lfs merge=lfs -text
